@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## _ATLAS_ the robot
 
-You can use the [editor on GitHub](https://github.com/SansBasnet/Robotics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A land rover robot with capability of navigating on a Eucledean surface and interact with objects via embedeed micro processors. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SansBasnet/Robotics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Get in touch
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information about the robot or its configuration email [Sans](sbasnet598@gmail.com) or [Dan](sbasnet598@gmail.com).
