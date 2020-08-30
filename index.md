@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Get in touch
 
-For more information about the robot or its configuration email [Sans](sbasnet598@gmail.com) or [Dan](sbasnet598@gmail.com).
+For more information about the robot or its configuration contact [Sans](https://guides.github.com/sansbasnet) or [Dan](https://github.com/kabat1289).
