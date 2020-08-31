@@ -314,7 +314,8 @@ void toTerminal()
 [This](http://robotics.hobbizine.com/arduinoann.html) and ![Image](src). 
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SansBasnet/Robotics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+-----------------------------
 
 ### Get in touch
 
