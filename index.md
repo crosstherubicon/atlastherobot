@@ -2,7 +2,7 @@
 
 An engineering and creation of an Atlas the robot in three phases: 
 
-- Phase 1: Preliminary design and engineering and .stl file layout. Soldering as well as 3D model blueprints.
+- Phase 1: Preliminary design and engineering and layout. Soldering and 3d model protoyping.
 - Phase 2: Rapid prototype and testing hardware
 - Phase 3: Controls and autmation layouts, testing and implementing software.
 - Phase 4: Beta testing, confirmation and validation of systems and controls. 
@@ -14,9 +14,9 @@ A mini land rover robot with capability of navigating on a Eucledean surface and
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*WORKING ON IT*
 
 ```markdown
 Syntax highlighted code block
@@ -37,8 +37,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SansBasnet/Robotics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
