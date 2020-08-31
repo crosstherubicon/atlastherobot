@@ -2,11 +2,11 @@
 
 An engineering and creation of an Atlas the robot in three phases: 
 
-Phase 1: Preliminary design and engineering and .stl file layout. Soldering as well as 3D model blueprints.
-Phase 2: Rapid prototype and testing hardware
-Phase 3: Controls and autmation layouts, testing and implementing software.
-Phase 4: Beta testing, confirmation and validation of systems and controls. 
-Phase 5: Deployment and presentation, tentatively scheulded for Nov 10, 2020. 
+- Phase 1: Preliminary design and engineering and .stl file layout. Soldering as well as 3D model blueprints.
+- Phase 2: Rapid prototype and testing hardware
+- Phase 3: Controls and autmation layouts, testing and implementing software.
+- Phase 4: Beta testing, confirmation and validation of systems and controls. 
+- Phase 5: Deployment and presentation, tentatively scheulded for Nov 10, 2020. 
 
 ### Current stage of development: Phase 1
 
