@@ -1,4 +1,4 @@
-## _ATLAS_ the robot
+# _ATLAS_ the robot
 
 An engineering and creation of an Atlas the robot in three phases: 
 
@@ -317,4 +317,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Get in touch
 
-For more information about the robot or its configuration contact [Sans](https://guides.github.com/sansbasnet) or [Dan](https://github.com/kabat1289).
+For more information about the robot or its configuration contact [Sans Brooklyn](https://guides.github.com/sansbasnet) or [Dan Kabat](https://github.com/kabat1289).
