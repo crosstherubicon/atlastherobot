@@ -1,6 +1,6 @@
 # _ATLAS_ the robot
 
-An engineering and creation of an Atlas the robot in three phases: 
+A mini land rover robot with capability of navigating on a Eucledean surface and interacting with objects via embedeed microcontroller for locomotion and microprocessor for analytics. The engineering and creation of an Atlas the robot in five phases: 
 
 - Phase 1: Preliminary design and engineering and layout. Soldering and 3d model protoyping.
 - Phase 2: Rapid prototype and testing hardware
@@ -8,11 +8,7 @@ An engineering and creation of an Atlas the robot in three phases:
 - Phase 4: Beta testing, confirmation and validation of systems and controls. 
 - Phase 5: Deployment and presentation, tentatively scheulded for Nov 10, 2020. 
 
-### Current stage of development: Phase 1
-
-A mini land rover robot with capability of navigating on a Eucledean surface and interacting with objects via embedeed microcontroller for locomotion and microprocessor for analytics. 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current stage of development: Phase 1 
 
 ### Design
 
@@ -319,4 +315,4 @@ void toTerminal()
 
 ### Get in touch
 
-For more information about the robot or its configuration contact [Sans Brooklyn](https://guides.github.com/sansbasnet) or [Dan Kabat](https://github.com/kabat1289).
+For more information about the project and its configuration contact [Sans Brooklyn](https://guides.github.com/sansbasnet) or [Dan Kabat](https://github.com/kabat1289).
