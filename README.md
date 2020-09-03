@@ -1,2 +1,2 @@
 # Atlas_the_robot
-AI driven robotics - hardware and software
+AI driven robot - hardware and software
