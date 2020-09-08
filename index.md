@@ -1,6 +1,6 @@
 # _ATLAS_ the robot
 
-A mini land-rover robot with capability of navigating on a Eucledean surface and interacting with objects via embedeed microcontroller for locomotion and microprocessor for analytics. The engineering and creation of an Atlas the robot in five phases planned below: 
+A mini land-rover robot with capability of navigating on a Eucledean surface and interacting with objects via embedeed microcontroller for locomotion and microprocessor for analytics. The engineering and creation of the Atlas robot in five phases planned below: 
 
 - Phase 1: Preliminary design and engineering and layout. Soldering and 3d model protoyping.
 - Phase 2: Rapid prototype and testing hardware
